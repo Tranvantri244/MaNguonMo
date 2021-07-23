@@ -1,0 +1,8 @@
+Bạn sử dụng Xampp vào MySQL tạo database có tên quanlymaytinhxachtay rồi import file quanlymaytinhxachtay.sql vào.
+Tài khoản và mật khẩu:
+Tài khoản admin:
+huuhai
+Pass: 123456
+Tài khoản khách:
+giang
+Pass: 123456
